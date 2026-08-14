@@ -1,8 +1,10 @@
 #  Data Structures Python CLI Project
 
-[English](#-english) | [العربية](#-العربية)
+[English](#english) | [العربية](#arabic)
 
 ---
+
+<a id="english"></a>
 
 ## 🇬🇧 English
 
@@ -15,32 +17,30 @@ A modular Python Command-Line Interface (CLI) application for implementing and d
 - **Stacks:** Array-based and Linked-List-based Stacks.
 - **Queues:** Linear and Linked-List-based Queues.
 
-### Requirements
-- Python 3.x
-
 ### How to Run
 
 ```bash
-git clone [https://github.com/Mohammed-Al-hemyari20/Data-Structures-Python-CLI.git](https://github.com/Mohammed-Al-hemyari20/Data-Structures-Python-CLI.git)
+git clone https://github.com/Mohammed-Al-hemyari20/Data-Structures-Python-CLI.git
 cd Data-Structures-Python-CLI
 python appmain.py
 ```
 
+<a id="arabic"></a>
 
-## العربية
+🇾🇪 العربية
+نظرة عامة
 
-### نظرة عامة
-تطبيق معيارى بلغة Python للسطر البرمجي (CLI) يهدف لتطبيق هياكل البيانات الأساسية بأسلوب مُنظم.
+تطبيق منظم بلغة Python يعمل من خلال سطر الأوامر (CLI)، ويهدف إلى تطبيق هياكل البيانات الأساسية بطريقة عملية ومنظمة.
 
-### المميزات والوحدات
-* **المصفوفات:** عمليات المصفوفات وإدارة البيانات.
-* **القوائم الموصولة:** بناء القوائم الموصولة الأحادية والمزدوجة.
-* **المكدسات:** بناء المكدس بالمصفوفات والقوائم الموصولة.
-* **الطوابير:** بناء الطابور الخطي والقائم على القوائم الموصولة.
+المميزات والوحدات
+المصفوفات: عمليات المصفوفات وإدارة البيانات.
+القوائم الموصولة: القوائم الأحادية والمزدوجة.
+المكدسات: باستخدام المصفوفات والقوائم الموصولة.
+الطوابير: الطابور الخطي والقائم على القوائم الموصولة.
 
-### طريقة التشغيل
+طريقة التشغيل
 ```bash
-git clone [https://github.com/Mohammed-Al-hemyari20/Data-Structures-Python-CLI.git](https://github.com/Mohammed-Al-hemyari20/Data-Structures-Python-CLI.git)
+git clone https://github.com/Mohammed-Al-hemyari20/Data-Structures-Python-CLI.git
 cd Data-Structures-Python-CLI
 python appmain.py
 ```
