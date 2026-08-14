@@ -26,6 +26,7 @@ cd Data-Structures-Python-CLI
 python appmain.py
 ```
 
+
 ## العربية
 
 ### نظرة عامة
@@ -38,6 +39,8 @@ python appmain.py
 * **الطوابير:** بناء الطابور الخطي والقائم على القوائم الموصولة.
 
 ### طريقة التشغيل
+```bash
 git clone [https://github.com/Mohammed-Al-hemyari20/Data-Structures-Python-CLI.git](https://github.com/Mohammed-Al-hemyari20/Data-Structures-Python-CLI.git)
 cd Data-Structures-Python-CLI
 python appmain.py
+```
