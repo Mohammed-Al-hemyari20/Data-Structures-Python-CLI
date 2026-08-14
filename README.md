@@ -24,7 +24,7 @@ A modular Python Command-Line Interface (CLI) application for implementing and d
 git clone [https://github.com/Mohammed-Al-hemyari20/Data-Structures-Python-CLI.git](https://github.com/Mohammed-Al-hemyari20/Data-Structures-Python-CLI.git)
 cd Data-Structures-Python-CLI
 python appmain.py
-
+```
 
 ## العربية
 
